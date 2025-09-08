@@ -1,0 +1,5 @@
+PyQt5
+pypandoc
+Pillow
+yt-dlp
+instaloader
