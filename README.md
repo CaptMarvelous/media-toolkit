@@ -16,7 +16,6 @@ Built with **Python** + **PyQt5** and designed for speed, simplicity, and power.
 
 ---
 
-```markdown
 ## 🚀 Quick Start
 
 ```bash
@@ -28,7 +27,7 @@ python media_toolkit.py
 
 ---
 
-## 🖼️ Preview
+### 🖼️ Preview
 ![App Screenshot](assets/preview1.png)
 ![App Screenshot](assets/preview2.png)
 ![App Screenshot](assets/preview3.png)
