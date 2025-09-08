@@ -16,7 +16,9 @@ Built with **Python** + **PyQt5** and designed for speed, simplicity, and power.
 
 ---
 
+```markdown
 ## 🚀 Quick Start
+
 ```bash
 git clone https://github.com/CaptMarvelous/media-toolkit.git
 cd media-toolkit
