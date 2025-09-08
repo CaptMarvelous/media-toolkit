@@ -24,15 +24,15 @@ pip install -r requirements.txt
 python media_toolkit.py
 👉 Requires Python 3.9+ and ffmpeg installed in your PATH.
 
-🖼️ Preview
+## 🖼️ Preview
 ![App Screenshot](assets/preview1.png)
 ![App Screenshot](assets/preview2.png)
 ![App Screenshot](assets/preview3.png)
 
 
-📄 License
+## 📄 License
 Released under the MIT License.
 Use it, modify it, share it — just give credit.
 
-💡 Built to save time.
+## 💡 Built to save time.
 No ads. No limits. Just media freedom.
