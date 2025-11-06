@@ -23,8 +23,8 @@ git clone https://github.com/CaptMarvelous/media-toolkit.git
 cd media-toolkit
 pip install -r requirements.txt
 python media_toolkit.py
-👉 Requires Python 3.9+ and ffmpeg installed in your PATH.
 ```
+👉 Requires Python 3.9+ and ffmpeg installed in your PATH.
 ---
 
 ## 🖼️ Preview
