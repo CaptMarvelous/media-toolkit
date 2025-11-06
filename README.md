@@ -25,6 +25,7 @@ pip install -r requirements.txt
 python media_toolkit.py
 ```
 👉 Requires Python 3.9+ and ffmpeg installed in your PATH.
+
 ---
 
 ## 🖼️ Preview
